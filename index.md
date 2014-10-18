@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 寂寞先生
-tagline: 这，是一个寂寞的世界……
+title: 沧海
+tagline: 20100821有你于我，是一生的灿烂
 ---
 {% include JB/setup %}
 
